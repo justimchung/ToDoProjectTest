@@ -41,7 +41,7 @@ public class ToDoActivity extends ActionBarActivity {
 
         Button btnAdd = (Button)findViewById(R.id.btnAdd);
         btnAdd.setOnClickListener(addItem);
-
+///
     }
 
     private AdapterView.OnItemLongClickListener deleteItem =
